@@ -1,6 +1,6 @@
 {
   "name": "@emailit/node",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Node.js SDK for the Emailit Email API",
   "type": "module",
   "main": "./src/index.js",
