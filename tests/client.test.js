@@ -55,6 +55,6 @@ describe('Emailit', () => {
   });
 
   it('VERSION is defined', () => {
-    expect(VERSION).toBe('2.0.2');
+    expect(VERSION).toBe('2.0.3');
   });
 });
