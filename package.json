@@ -24,5 +24,9 @@
   "license": "MIT",
   "devDependencies": {
     "vitest": "^4.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emailit/emailit-node.git"
   }
 }
