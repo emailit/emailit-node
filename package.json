@@ -1,0 +1,28 @@
+{
+  "name": "@emailit/node",
+  "version": "2.0.0",
+  "description": "Node.js SDK for the Emailit Email API",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "emailit",
+    "email",
+    "api",
+    "sdk"
+  ],
+  "homepage": "https://emailit.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
