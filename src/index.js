@@ -1,6 +1,6 @@
 import { EmailitClient } from './EmailitClient.js';
 
-export const VERSION = '2.0.0';
+export const VERSION = '2.0.1';
 
 export class Emailit extends EmailitClient {
   constructor(config) {

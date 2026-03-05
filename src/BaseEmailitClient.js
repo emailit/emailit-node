@@ -2,7 +2,7 @@ import { ApiResponse } from './ApiResponse.js';
 import { ApiConnectionException } from './errors/ApiConnectionException.js';
 import { createApiError } from './errors/index.js';
 
-const SDK_VERSION = '2.0.0';
+const SDK_VERSION = '2.0.1';
 const DEFAULT_API_BASE = 'https://api.emailit.com';
 const DEFAULT_TIMEOUT = 30_000;
 
